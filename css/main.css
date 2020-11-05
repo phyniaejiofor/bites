@@ -1,0 +1,43 @@
+body{
+    font-family: 'Arvo', serif; 
+}
+.height{
+    min-height: 100vh; 
+}
+.title-underline{
+    width:200px;
+    height:10px;
+    margin:0 auto;
+}
+.height-80{
+    min-height: 80vh;
+}
+.about-picture{
+    background:url("../image/undraw_barbecue_3x93.svg") ;
+    background-size: cover;
+    background-position: left;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+
+
+  /* #filler{
+    background: url("../image/coconutr.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+} */
+
+#filler{
+    background: url(../image/coconutr.png) center/cover no-repeat fixed;
+
+}
+
+#progress{
+  background: url(../image/cfp.png) center/cover no-repeat fixed; 
+/* }
+.logo{
+    background-image: ;
+} */
