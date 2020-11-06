@@ -511,7 +511,7 @@
                     <p class="text-muted">Taste From The Space</p>
                 </div>
                 <div class="col-md-4 mt-3">
-                    <img src="./image/presh.jpg" class="img-fliud img-thumbnail" alt="bro">
+                    <img src="./image/nene.jpg" class="img-fliud img-thumbnail" alt="bro">
                     <h2 class="my-3 text-warning">Project 6</h2>
                     <p class="text-muted">Taste From The Space</p>
                 </div>
